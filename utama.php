@@ -1,0 +1,1 @@
+<h1 style="color:white;"> <img class="img-responsive" src="asset/img/logoosis.png" align="center" width="50" />  Selamat Datang Di E-voting Pemilihan Ketua OSIS</h1> 
